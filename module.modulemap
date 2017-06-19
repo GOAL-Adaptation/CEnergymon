@@ -1,5 +1,5 @@
 module CEnergymon [system] {
     header "/usr/local/include/energymon/energymon-default.h"
-    link "energymon-msripg"
+    link "energymon-default"
     export *
 }
